@@ -22,7 +22,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        Label name = new Label("Name222");
+        Label name = new Label("Name");
         Text favColour = new Text("Favourite Colour");
         Text favPlace = new Text("Favourite Place");
         Text relationship = new Text("Relationship");
